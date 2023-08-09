@@ -1,0 +1,741 @@
+[
+    {
+        "category": "Accessories",
+        "products": [
+            {
+                "id": "1",
+                "name": "Leather Belt",
+                "description": "High-quality leather belt.",
+                "price": "$40",
+                "rating": "★★★★☆",
+                "image": "https://cdn11.bigcommerce.com/s-67hz0xd/images/stencil/1280x1280/products/385/1257/custom_name_belt_erik__39823.1537988865.jpg?c=2"
+            },
+            {
+                "id": "2",
+                "name": "Silk Scarf",
+                "description": "Elegant silk scarf with a floral pattern.",
+                "price": "$70",
+                "rating": "★★★☆☆",
+                "image": "https://www.ritawhiteart.com/cdn/shop/products/pink-flowers-ritawhite-silkscarf.jpg?v=1638630877"
+            },
+            {
+                "id": "3",
+                "name": "Sunglasses",
+                "description": "Stylish aviator sunglasses.",
+                "price": "$90",
+                "rating": "★★★★☆",
+                "image": "https://cramilosunglasses.com/cdn/shop/products/CA08_CS01-B01S_2000x.JPG?v=1570261712"
+            },
+            {
+                "id": "4",
+                "name": "Wrist Watch",
+                "description": "Classic analog wrist watch.",
+                "price": "$150",
+                "rating": "★★★★★",
+                "image": "https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&itemId=1735455-847&recipeName=680"
+            },
+            {
+                "id": "5",
+                "name": "Baseball Cap",
+                "description": "Comfortable and stylish baseball cap.",
+                "price": "$20",
+                "rating": "★★★☆☆",
+                "image": "https://m.media-amazon.com/images/I/61nvgdQB4vL._AC_UY1000_.jpg"
+            },
+            {
+                "id": "6",
+                "name": "Wallet",
+                "description": "Leather wallet with multiple compartments.",
+                "price": "$35",
+                "rating": "★★★★☆",
+                "image": "https://i5.walmartimages.com/asr/deffe1dc-d66b-49cc-99e1-05307210dff9.3ef964c56e8835432231917b56bafd54.jpeg"
+            },
+            {
+                "id": "7",
+                "name": "Tie",
+                "description": "Elegant business tie.",
+                "price": "$30",
+                "rating": "★★★★☆",
+                "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDw8PDQ8PDQ8PDw8PDw0NDw8PDw0NFREWFhURFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OFw0NFysdHR0rKy0rLS0rKzc3LS0rKys3NystKzcrLTctNy03KysrKysrKysrLSstKy0tKys3Kzc3Lf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEBAAIDAQEAAAAAAAAAAAAAAQIHAwQGBQj/xABHEAACAQIBBwcFCwsFAAAAAAAAAQIDEQQFEiExQVFhBgcicYGy8BNzkaGxJTI0U3SSs8HR0/EUFyMkNUJScqKjwjNkgqTh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAECEf/aAAwDAQACEQMRAD8A2qADDQAAKQpGBUCFAEYZGBGxnGEnY89lblpk/DU/KPEU67zowVLC1KVWq29ubnKyVtf2gekziZx4X85+C+JxfzKP3g/OfgvicX8yh94OU691ctzwf5zsF8Ri/mUfvD6+R+WmBxMJT8tHDZss1wxc6VGT0Xzl0mmu0cHpkzI4qc00mmmmk007pp6mmciAoAAAAAAAKAAKAAFwABgAAAAAIAMAUgAEZTFgdDLUmqFVp2tCXsPzlX00k1sin2rSfoflFK2Grebn3WfnlaaS/lRcldmLuk96TBw4Kd6cb60reg5TTKuRhn6uuxZMwep8Gn69PqA/ROQF+qYR/wC2ofRxPoI+dye+B4T5NQ+jifRRhpQAARSFAgKQCgACgAAAAMAAAAAAAMAAABizIxYHxOVErYWv5qp3WaAh7yK4G/uVPwWv5qp3Wfn+k+iureXJpMBLoyX8Mn6HpO1c6OEdqk1vSaO4aZZnG4aetNeovpJL2AfojIHwPC/JqH0cT6CPmcm66qYLCTjoUsNRdtz8mrrsdz6aMNKAACKAAAAAAAUERQAAAwAAAAAACgQAoEMWZEYHwuVfwWv5qp3WaApLorqP0ByrX6piPNVO6z8/0verqLk068nm1YvrR3vr2rSvGo6GM0OL3NHcg7rTbg1rRplmRjxoL6QN081+L8pkylG+c6FSrRd9a6WfFdkakV2HrUa05nMZ8LoN/F1or0xn/gbLRitRkAACKRFAAAAAACKRFAWAAGJAAAAAoAAAACEZkYsD4vKlfqmI81U7rPz3Rehdmg/QvKv4HifM1e4z88UtSLkrjxqvFnPhZXivGwxrLQY5JkrxTSfTUdO5uxpl3IwcvepvbaKbMp0JL3yask2m0nZ6nm67aUfWWGpqScs+rGMU3GUnODb1tWs1ZLU9fZYuJedCSlFLo5sc1NJuLSje+p/pFv8AeoDv82eM8llKitlaNSjLgnHOX9UIm7T855KxXkMRQraf0ValU4tQmpW9R+i+rStj3ozVjJFIikUAAFBCgAAARSFAAADAAACkKAAAAAADFlIwPh8spWwOKe6hV7jPz9TWhdhvzl27ZOxnyat3GaEgtCLlKS1HVwq6U48bnbfi+46tPRV/mRpH3Y5StfXU6V1n2jmrT0dHD2s4p46Wm0YpPNutOuLbi9ehptnVQsA8WP0ByRxv5RgMJVvnN0Ywk984dCXrizQFjbnNFjM/B1qTd3RrtpbqdSKa/qjMlWPdIyMSoyqgAAikAFAAApCgAABgAABSFAAAAAAIRlIwPN8v37m4z5PV7jNER8LsN584srZNxfGjJenQaLT7fGwuUrI6VbRUg+J3X9ms6eMVs17pI0jvxYRx02ci9PUBe095zQ43NxVai9VajnLjOnK69UpngvTb2H2OR2N/J8oYSppt5aMJbsyp0JeqTYo3+EQphpQCgAAgKAAAAAoIAMQAAKQoAAAACACMyMWB5TnJlbJuJ/kS9MkaN8dRu7nPfubX/wCC9NSKNIxZcpVT8b07nBjNMXw079KOf2fWcdRaGt6NIyoO6RzHUwb6K9Z2kBSrtW7ZYi8aSoD9GZMxfl6FGt8bSp1e2UVJr1nbPK822KdXJtDOv+jdSkm/3oxm7W6k7dh6pGGlKQoAAAUAAAAABQBgCgCFAAAAAQpABGZGLA8dzor3Nr9dL6WJpI3bzpO2TK/XSXpqxRpE1lKyTLJIxCf1lRwUpZrcXdXbtua16zsxl/6YygnoelHE86nru479sevegO3f1ew72RMl1MXXp4elrm+lLWqdNe+m+CXpbS2nzqXSzVFOTk1GKjpcm3ZJW1tuy7Td3IXkssDRzqnSxFVJ1Za1BbKUeC2va+Fkpasj0GSsDDD0adGks2nTioxW2y2ve3rb3s7qIkZIyqgAAAAKCACgACgADEAAAAAAAAAADFmRiwPF87Dtkut5zDr+/A0nE3VzufsupxrYf6WLNKxZqJWSfhixLFT+0qKvHAy2Etu8eLlXjqA9fzT4GnLKV5RTzMPVqQur5lRTprOjudpSV+LN1pGmOaeXuklvw9Zex/UboM1qCMiIEFAAAAAAABQQoFBABAAAAAAAAAQoAxZSMDxPO4/cyfnqH0iNLJeOBufnc/Zz89R76NMI1ErLwyMPx1gqKZLxvIW/jcwPY81L904eZrd03UaQ5sKlsqUF/FCtH+1KX+Ju5Ga1GSARSAAAAAAAACoBAAAAMQABQAAAIAKQoAxZkRgeF53P2c/PUu8aZ/E3tzjZJqYvAVIUtM4uFSK/izXdx7Vc0RZp2as07NNWae1WNRKz/EMhkvYVBP7SsgQHpebeVsq4Prrr/rVTeyNK82GRatbGU8UuhRw0pOU2v9So4NKnH51293WbpRmtRmikRSAAgAAAAAAEUiKAAAGIBQAAAEKQAUEAoAAwnG60mrecPkZdyxWFj0tdSnH9/iuJtRnFXpKSaaumB+ZFx0bNOzrMvG02Dy+5GODlicLHXpnTW3iuPtNeRZqXqWcZ/gfZ5L8nquUK6pwvGnGzrVraKUNy3yexdupM4uTmQ62PrqjRTUVaVWq08ylC+t8XpstunYm1vTIORqODoxo0I5sVpbemU57Zye1vxoFpI5slZNpYalCjRioU6atGK9bb2tu7b2tneSCRkjKgAAAAAAAAAAFIigAABAAAAAAhQAAAAAACMoA62JoKaaauma8y3zcwr18+lN0FKV6mbFSzltstkuPqZstoxzQr5OQMi0cHSjSoQzYrS3rlOW2UntZ9ZIqiVIIFAAAAAAAAKQAAABSFAAACAAAAAAIABQAIUAAAABAABQAAAAAAAAAKQACFAAIoAEAAH//Z"
+            },
+            {
+                "id": "8",
+                "name": "Cufflinks",
+                "description": "Luxury silver cufflinks.",
+                "price": "$100",
+                "rating": "★★★★★",
+                "image": "https://assets.aspinaloflondon.com/images/callout-2021-large/1496759-047-1618-104100001.jpg"
+            },
+            {
+                "id": "9",
+                "name": "Gloves",
+                "description": "Warm winter gloves.",
+                "price": "$25",
+                "rating": "★★★☆☆",
+                "image": "https://www.nalini.com/images/products/B02985301100C000.10_4000_0_B0WEXAGONWINTERGLOVES.jpg"
+            },
+            {
+                "id": "10",
+                "name": "Beanie",
+                "description": "Cozy knitted beanie.",
+                "price": "$18",
+                "rating": "★★★☆☆",
+                "image": "https://assets.bigcartel.com/product_images/311120382/cuffed-beanie-black-front-60f4e5bbf367d.png?auto=format&fit=max&w=768"
+            },
+            {
+                "id": "11",
+                "name": "Umbrella",
+                "description": "Durable wind-resistant umbrella.",
+                "price": "$25",
+                "rating": "★★★☆☆",
+                "image": "https://m.media-amazon.com/images/I/61zt994+hRL._AC_UY1000_.jpg"
+            },
+            {
+                "id": "12",
+                "name": "Bandana",
+                "description": "Colorful cotton bandana.",
+                "price": "$8",
+                "rating": "★★☆☆☆",
+                "image": "https://www.kullillaart.com.au/assets/thumbL/APP-BANDANA-BWA.LD802.png?20221122081959"
+            },
+            {
+                "id": "13",
+                "name": "Messenger Bag",
+                "description": "Stylish messenger bag for daily use.",
+                "price": "$45",
+                "rating": "★★★★☆",
+                "image": "https://www.jasani.ae/web/image/product.image/548/image_1024/Moleskine%20ID%20Messenger%20Bag%20-%20Black?unique=dc69c4f"
+            },
+            {
+                "id": "14",
+                "name": "Fedoras",
+                "description": "Classic Fedora with a modern twist.",
+                "price": "$22",
+                "rating": "★★★☆☆",
+                "image": "https://www.bon-clic-bon-genre.us/photo/px1844-noir-1_20221026111212.jpg"
+            },
+            {
+                "id": "15",
+                "name": "Earrings",
+                "description": "Elegant pearl earrings.",
+                "price": "$75",
+                "rating": "★★★★★",
+                "image": "https://idjewelry.com/media/catalog/product/cache/b7604f28efb17313f569e67f90f5207e/e/0/e012044.jpg"
+            },
+            {
+                "id": "16",
+                "name": "Bracelet",
+                "description": "Stylish silver bracelet.",
+                "price": "$40",
+                "rating": "★★★★☆",
+                "image": "https://i.etsystatic.com/19730870/r/il/4509d4/4969940135/il_fullxfull.4969940135_byus.jpg"
+            },
+            {
+                "id": "17",
+                "name": "Lapel Pin",
+                "description": "Handcrafted lapel pin.",
+                "price": "$10",
+                "rating": "★★☆☆☆",
+                "image": "https://www.thepinpeople.com/wp-content/uploads/2018/02/custom-lapel-pins-samples.png"
+            },
+            {
+                "id": "18",
+                "name": "Keychain",
+                "description": "Customizable metal keychain.",
+                "price": "$6",
+                "rating": "★★☆☆☆",
+                "image": "https://i.etsystatic.com/5803746/r/il/40ba59/474225685/il_fullxfull.474225685_jpa5.jpg"
+            },
+            {
+                "id": "19",
+                "name": "Bow Tie",
+                "description": "Stylish silk bow tie.",
+                "price": "$18",
+                "rating": "★★★☆☆",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71iOgv48EEL._SLDPMOBCAROUSELAUTOCROP288221_MCnd_AC_SR462,693_.jpg"
+            },
+            {
+                "id": "20",
+                "name": "Pendant",
+                "description": "Beautiful silver pendant with a gemstone.",
+                "price": "$50",
+                "rating": "★★★★★",
+                "image": "https://www.enchantedfinejewelry.com/cdn/shop/products/25th-May06128PDO4867SWDSZA.jpg?v=1656996017"
+            },
+            {
+                "id": "21",
+                "name": "Leather Wallet",
+                "description": "Compact leather wallet with RFID blocking.",
+                "price": "$45",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/81+tt3rfI7L._AC_UY1000_.jpg"
+            },
+            {
+                "id": "22",
+                "name": "Suede Gloves",
+                "description": "Soft suede gloves with fleece lining.",
+                "price": "$30",
+                "rating": "★★★★☆",
+                "image": "https://www.snugrugs.co.uk/wp-content/uploads/2016/05/SG1012FuchsiaBlack.jpeg"
+            },
+            {
+                "id": "23",
+                "name": "Chain Necklace",
+                "description": "Elegant chain necklace with gold plating.",
+                "price": "$60",
+                "rating": "★★★★☆",
+                "image": "https://katiedeanjewelry.com/cdn/shop/products/Elegant_Necklace_Set.jpg?v=1619124050"
+            },
+            {
+                "id": "24",
+                "name": "Pocket Square",
+                "description": "Silk pocket square with paisley print.",
+                "price": "$15",
+                "rating": "★★★☆☆",
+                "image": "https://shop.gentlemansgazette.com/media/catalog/product/cache/adf1bc7fcd9fd570ce58537d933ef0f3/s/i/silk_pocket_square_in_brown_with_blue_paisley_-_fort_belvedere_1.jpg"
+            },
+            {
+                "id": "25",
+                "name": "Ankle Socks",
+                "description": "Comfortable cotton ankle socks.",
+                "price": "$10",
+                "rating": "★★★☆☆",
+                "image": "https://i5.walmartimages.com/asr/def7ca04-c3e4-439a-a1db-88db04f7cc40_1.9c4c71da4bd8ad4e7bd0fcb19af5d8ee.jpeg"
+            },
+            {
+                "id": "26",
+                "name": "Hair Band",
+                "description": "Stylish hair band with floral design.",
+                "price": "$8",
+                "rating": "★★★☆☆",
+                "image": "https://sdqbeauty.com/cdn/shop/products/5323686869124.jpg?v=1658190030&width=1445"
+            },
+            {
+                "id": "27",
+                "name": "Travel Bag",
+                "description": "Durable travel bag with multiple compartments.",
+                "price": "$85",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/610pjZe9C2L._AC_UY1000_.jpg"
+            },
+            {
+                "id": "28",
+                "name": "Belt Buckle",
+                "description": "Customizable metal belt buckle.",
+                "price": "$20",
+                "rating": "★★☆☆☆",
+                "image": "https://m.media-amazon.com/images/I/71G089Kb-VL._AC_UY1000_.jpg"
+            },
+            {
+                "id": "29",
+                "name": "Luggage Tag",
+                "description": "Personalized leather luggage tag.",
+                "price": "$12",
+                "rating": "★★★☆☆",
+                "image": "https://brutehandcraft.com/wp-content/uploads/2020/07/il_1140xn.1874344900_pebh1.jpg"
+            },
+            {
+                "id": "30",
+                "name": "Sweater Scarf",
+                "description": "Warm and soft knitted sweater scarf.",
+                "price": "$28",
+                "rating": "★★★★☆",
+                "image": "https://i.etsystatic.com/9243221/r/il/ef4d40/665968051/il_fullxfull.665968051_fv8l.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Shoes",
+        "products": [
+            {
+                "id": "1",
+                "name": "Running Sneakers",
+                "description": "Lightweight running sneakers for men.",
+                "price": "$80",
+                "rating": "★★★★☆",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/hoka-zinal-13085-1643565794.jpg?crop=0.891xw:1.00xh;0.0561xw,0&resize=768:*"
+            },
+            {
+                "id": "2",
+                "name": "High Heels",
+                "description": "Elegant high heels for special occasions.",
+                "price": "$120",
+                "rating": "★★★☆☆",
+                "image": "https://assets.vogue.com/photos/62f673ac478ffbabaf30b646/3:4/w_748%2Cc_limit/slide_17.jpg"
+            },
+            {
+                "id": "3",
+                "name": "Leather Boots",
+                "description": "Durable leather boots.",
+                "price": "$100",
+                "rating": "★★★★★",
+                "image": "https://augustapparel.com/wp-content/uploads/2019/08/Custom-Made-Womens-Military-Brogue-Boot-in-Italian-Raw-Crust-Leather-with-a-Cognac-Hand-Patina-and-Tweed-3-800x800.jpg"
+            },
+            {
+                "id": "4",
+                "name": "Sandals",
+                "description": "Comfortable summer sandals.",
+                "price": "$40",
+                "rating": "★★★☆☆",
+                "image": "https://travelfashiongirlpostphotos.s3.us-east-2.amazonaws.com/2015/The+Best+Sandals+for+Travel+this+Summer/best-sandals-for-travel-this-summer-aerosoft-1.jpeg"
+            },
+            {
+                "id": "5",
+                "name": "Men's Dress Shoes",
+                "description": "Classic men's dress shoes for business wear.",
+                "price": "$110",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/619+qQBBgUL._AC_UF894,1000_QL80_.jpg"
+            },
+            {
+                "id": "6",
+                "name": "Women's Flats",
+                "description": "Casual women's flats for everyday wear.",
+                "price": "$50",
+                "rating": "★★★★☆",
+                "image": "https://i.insider.com/5ff4c485d184b30018aad27c?width=1000&format=jpeg&auto=webp"
+            },
+            {
+                "id": "7",
+                "name": "Children's Sneakers",
+                "description": "Colorful children's sneakers.",
+                "price": "$30",
+                "rating": "★★★★☆",
+                "image": "https://heeledtots.com/wp-content/uploads/2022/07/15353-lx9fu6.jpg"
+            },
+            {
+                "id": "8",
+                "name": "Slippers",
+                "description": "Soft and cozy slippers for home use.",
+                "price": "$20",
+                "rating": "★★★★★",
+                "image": "https://i5.walmartimages.com/asr/654d2254-e132-4fd6-92a5-dc1793154f2c.1aef3fa2e3936f4c322afc4a5c6264b5.jpeg"
+            },
+            {
+                "id": "9",
+                "name": "Workout Shoes",
+                "description": "Supportive workout shoes for gym use.",
+                "price": "$70",
+                "rating": "★★★☆☆",
+                "image": "https://post.healthline.com/wp-content/uploads/2022/08/2445465-%E2%80%93-9-Best-Gym-Shoes-for-Every-Workout-732x549-Feature-732x549.jpg"
+            },
+            {
+                "id": "10",
+                "name": "Winter Boots",
+                "description": "Warm and waterproof winter boots.",
+                "price": "$90",
+                "rating": "★★★☆☆",
+                "image": "https://www.switchbacktravel.com/sites/default/files/image_fields/field_imgs_inline/Kamik%20Nationplus%20winter%20boot.jpg"
+            },
+            {
+                "id": "11",
+                "name": "Hiking Boots",
+                "description": "Rugged hiking boots with great traction.",
+                "price": "$110",
+                "rating": "★★★★☆",
+                "image": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2021/03/WaterproofHikingBootsforWomen-1.jpeg"
+            },
+            {
+                "id": "12",
+                "name": "Ballet Flats",
+                "description": "Elegant ballet flats for formal wear.",
+                "price": "$65",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/51-YtTWKeFL._AC_SY395_.jpg"
+            },
+            {
+                "id": "13",
+                "name": "Basketball Sneakers",
+                "description": "High-performance basketball sneakers.",
+                "price": "$95",
+                "rating": "★★★★★",
+                "image": "https://www.kickz.com/on/demandware.static/-/Library-Sites-kickz-content-global/default/wp-content/uploads/2023/01/top-basketball-shoes-gt-cut-2.jpg"
+            },
+            {
+                "id": "14",
+                "name": "Rain Boots",
+                "description": "Waterproof rain boots with vibrant colors.",
+                "price": "$50",
+                "rating": "★★★☆☆",
+                "image": "https://i5.walmartimages.com/seo/George-Unisex-General-Purpose-Rubber-Rain-Work-Boot_468d805d-4c45-48f7-a7ba-8667436c04f3.22e2b2938e899c5369dcd39a50b8e306.jpeg"
+            },
+            {
+                "id": "15",
+                "name": "Wedding Heels",
+                "description": "Stunning heels for wedding occasions.",
+                "price": "$130",
+                "rating": "★★★★★",
+                "image": "https://img.mytheresa.com/2176/2176/90/jpeg/catalog/product/23/P00649387_d1.jpg"
+            },
+            {
+                "id": "16",
+                "name": "Loafers",
+                "description": "Comfortable loafers for casual wear.",
+                "price": "$70",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/61JXBsdIbfL._AC_SY625_.jpg"
+            },
+            {
+                "id": "17",
+                "name": "Golf Shoes",
+                "description": "Professional golf shoes with spikes.",
+                "price": "$100",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/81eHRVMyglS._AC_UF894,1000_QL80_.jpg"
+            },
+            {
+                "id": "18",
+                "name": "Beach Flip Flops",
+                "description": "Casual flip flops for beach outings.",
+                "price": "$15",
+                "rating": "★★★☆☆",
+                "image": "https://i5.walmartimages.com/asr/38707024-4e8f-4538-a8d1-4ef54e19861e.091b5bfe1f983d1a6d620188f41c724a.jpeg"
+            },
+            {
+                "id": "19",
+                "name": "Ankle Boots",
+                "description": "Stylish ankle boots for autumn season.",
+                "price": "$85",
+                "rating": "★★★★☆",
+                "image": "https://images.bauerhosting.com/legacy/media/6168/5549/8c39/cd4c/4660/c546/best%20ankle%20boots%20women%20uk%202021.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill"
+            },
+            {
+                "id": "20",
+                "name": "Soccer Cleats",
+                "description": "Performance-driven soccer cleats.",
+                "price": "$90",
+                "rating": "★★★★★",
+                "image": "https://i0.wp.com/www.soccercleats101.com/wp-content/uploads/2014/06/Screen-shot-2014-06-28-at-9.57.18-AM-1.jpg"
+            },
+            {
+                "id": "21",
+                "name": "Yoga Shoes",
+                "description": "Flexible yoga shoes for studio practice.",
+                "price": "$55",
+                "rating": "★★★☆☆",
+                "image": "https://cdn.divein.com/wp-content/uploads/Yoga/l-run-barefoot-yoga-shoes-featured-1140x760.jpg"
+            },
+            {
+                "id": "22",
+                "name": "Dance Shoes",
+                "description": "Specialized dance shoes with suede sole.",
+                "price": "$75",
+                "rating": "★★★★☆",
+                "image": "https://myzijidance.com/cdn/shop/products/DSC04508.jpg?v=1652335893"
+            },
+            {
+                "id": "23",
+                "name": "Cowboy Boots",
+                "description": "Classic leather cowboy boots.",
+                "price": "$120",
+                "rating": "★★★★☆",
+                "image": "https://i5.walmartimages.com/asr/3056c9db-7c06-4f7b-9638-c51a030e3afa.4e8251541a1e11f81ab54b1c9a137d28.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+            },
+            {
+                "id": "24",
+                "name": "Gladiator Sandals",
+                "description": "Bold gladiator sandals for fashionistas.",
+                "price": "$60",
+                "rating": "★★★☆☆",
+                "image": "https://www.fashionnova.com/cdn/shop/products/01-23-20_Night_BR_JJ_18-07-47_46__BELLA110_Black_49735_EH_1200x1200.jpg?v=1582762853"
+            },
+            {
+                "id": "25",
+                "name": "Moccasins",
+                "description": "Traditional moccasins with soft leather.",
+                "price": "$65",
+                "rating": "★★★★☆",
+                "image": "https://di2ponv0v5otw.cloudfront.net/posts/2022/07/26/62e033f912d880137f3fd386/s_62e03402bb5937c54e568a36.jpg"
+            },
+            {
+                "id": "26",
+                "name": "Tennis Shoes",
+                "description": "Supportive tennis shoes for court play.",
+                "price": "$80",
+                "rating": "★★★★★",
+                "image": "https://www.thetennistribe.com/wp-content/uploads/Babolat-Jet-Mach-III-womens-tennis-shoes-1024x770.jpg"
+            },
+            {
+                "id": "27",
+                "name": "Platform Heels",
+                "description": "Trendy platform heels with ankle strap.",
+                "price": "$85",
+                "rating": "★★★★☆",
+                "image": "https://www.tajnaclub.com/cdn/shop/products/high_heel_women_shoes_7_740x.jpg?v=1543516914"
+            },
+            {
+                "id": "28",
+                "name": "Snow Boots",
+                "description": "Insulated snow boots for cold weather.",
+                "price": "$100",
+                "rating": "★★★☆☆",
+                "image": "https://img.fruugo.com/product/3/28/184470283_max.jpg"
+            },
+            {
+                "id": "29",
+                "name": "Fitness Trainers",
+                "description": "Versatile trainers for various workouts.",
+                "price": "$75",
+                "rating": "★★★★☆",
+                "image": "https://vader-prod.s3.amazonaws.com/1677147881-puma-fuse-2-1677147827.png"
+            },
+            {
+                "id": "30",
+                "name": "Espadrilles",
+                "description": "Casual espadrilles with woven sole.",
+                "price": "$45",
+                "rating": "★★★☆☆",
+                "image": "https://assets.hermes.com/is/image/hermesproduct/trip-espadrille--211289Z%20CB-worn-1-0-0-1000-1000_g.jpg"
+            }
+            
+        ]
+    }
+    ,
+    {
+        "category": "Bags",
+        "products": [
+            {
+                "id": "1",
+                "name": "Leather Handbag",
+                "description": "Elegant leather handbag.",
+                "price": "$150",
+                "rating": "★★★★☆",
+                "image": "https://i5.walmartimages.com/asr/69673f34-58ed-4837-82af-278aa8d29f06.d902dd59b216dcc89fbb1d2394409c8b.jpeg"
+            },
+            {
+                "id": "2",
+                "name": "Canvas Backpack",
+                "description": "Durable canvas backpack for everyday use.",
+                "price": "$70",
+                "rating": "★★★☆☆",
+                "image": "https://m.media-amazon.com/images/I/81YdRXq3wFL._AC_UF1000,1000_QL80_.jpg"
+            },
+            {
+                "id": "3",
+                "name": "Laptop Bag",
+                "description": "Protective bag for your laptop.",
+                "price": "$90",
+                "rating": "★★★★★",
+                "image": "https://m.media-amazon.com/images/I/81EtN4qUhcL.jpg"
+            },
+            {
+                "id": "4",
+                "name": "Travel Suitcase",
+                "description": "Spacious suitcase for travel.",
+                "price": "$130",
+                "rating": "★★★☆☆",
+                "image": "https://nomadlane.com/cdn/shop/files/WomanCarryingBag.jpg?v=1686081463"
+            },
+            {
+                "id": "5",
+                "name": "Gym Bag",
+                "description": "Compact gym bag for sport activities.",
+                "price": "$40",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/613a8J48ykL._AC_UY1000_.jpg"
+            },
+            {
+                "id": "6",
+                "name": "Tote Bag",
+                "description": "Stylish tote bag for shopping.",
+                "price": "$50",
+                "rating": "★★★★☆",
+                "image": "https://www.gingercrush.com/cdn/shop/products/Art8_-with-name_1000x.jpg?v=1613635840"
+            },
+            {
+                "id": "7",
+                "name": "Messenger Bag",
+                "description": "Practical messenger bag with adjustable strap.",
+                "price": "$60",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/81PbqDrzGnL._AC_UF894,1000_QL80_.jpg"
+            },
+            {
+                "id": "8",
+                "name": "Clutch Bag",
+                "description": "Chic clutch bag for evening events.",
+                "price": "$80",
+                "rating": "★★★★★",
+                "image": "https://i.etsystatic.com/36243464/r/il/57877a/4974590009/il_300x300.4974590009_abdd.jpg"
+            },
+            {
+                "id": "9",
+                "name": "Duffel Bag",
+                "description": "Versatile duffel bag for short trips.",
+                "price": "$70",
+                "rating": "★★★☆☆",
+                "image": "https://cdn.thewirecutter.com/wp-content/uploads/2019/02/Duffel-Bags_lowres-22.jpg?auto=webp&quality=60&width=570"
+            },
+            {
+                "id": "10",
+                "name": "Crossbody Bag",
+                "description": "Convenient crossbody bag for casual outings.",
+                "price": "$60",
+                "rating": "★★★☆☆",
+                "image": "https://www.travelandleisure.com/thmb/dth0Vu-iYYiicDSUE_kHykI9VrA=/fit-in/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/notag-waterproof-crossbody-bag-563ecad8a0514d1fa4843da65c411b36.jpg"
+            },
+            {
+                "id": "11",
+                "name": "Beach Tote",
+                "description": "Colorful beach tote for sun-filled days.",
+                "price": "$45",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/71+GCfgxtkL._AC_UY1000_.jpg"
+            },
+            {
+                "id": "12",
+                "name": "Weekender Bag",
+                "description": "Stylish bag for weekend getaways.",
+                "price": "$95",
+                "rating": "★★★★☆",
+                "image": "https://vesselgolf.com/cdn/shop/products/Web-3102120-10-02.jpg?v=1684163929&width=2048"
+            },
+            {
+                "id": "13",
+                "name": "Sling Backpack",
+                "description": "Comfortable sling backpack for daily use.",
+                "price": "$65",
+                "rating": "★★★☆☆",
+                "image": "https://cdn.divein.com/wp-content/uploads/Everyday-life/kavu-rope-sling-bag-full-750x500.jpg"
+            },
+            {
+                "id": "14",
+                "name": "Wheeled Briefcase",
+                "description": "Professional wheeled briefcase for business travel.",
+                "price": "$120",
+                "rating": "★★★★★",
+                "image": "https://m.media-amazon.com/images/I/91ydYQQBxtL._AC_UF894,1000_QL80_.jpg"
+            },
+            {
+                "id": "15",
+                "name": "Evening Purse",
+                "description": "Elegant purse for formal events.",
+                "price": "$85",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/71-cT6mSMML._AC_UY1000_.jpg"
+            },
+            {
+                "id": "16",
+                "name": "Wallet",
+                "description": "Compact leather wallet for essentials.",
+                "price": "$35",
+                "rating": "★★★★☆",
+                "image": "https://i5.walmartimages.com/asr/86b01711-ae8b-46dc-981c-6e3754916441.6a39513f2c7d2810e99b459da946aab2.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+            },
+            {
+                "id": "17",
+                "name": "Garment Bag",
+                "description": "Protective garment bag for delicate clothing.",
+                "price": "$55",
+                "rating": "★★★☆☆",
+                "image": "https://m.media-amazon.com/images/I/61uEAkI-zCL._AC_UF1000,1000_QL80_.jpg"
+            },
+            {
+                "id": "18",
+                "name": "Camera Bag",
+                "description": "Padded camera bag for photography gear.",
+                "price": "$75",
+                "rating": "★★★★★",
+                "image": "https://m.media-amazon.com/images/I/71125KnsEeL.jpg"
+            },
+            {
+                "id": "19",
+                "name": "School Backpack",
+                "description": "Durable backpack for school essentials.",
+                "price": "$50",
+                "rating": "★★★☆☆",
+                "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2ed18da8-71c4-4196-961e-ac8b1a44437a/brasilia-jdi-mini-backpack-LKWjH5.png"
+            },
+            {
+                "id": "20",
+                "name": "Cosmetic Case",
+                "description": "Organized cosmetic case for beauty products.",
+                "price": "$40",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/71r-5XNLhgL._AC_UY1000_.jpg"
+            },
+            {
+                "id": "21",
+                "name": "Sport Fanny Pack",
+                "description": "Convenient fanny pack for outdoor activities.",
+                "price": "$30",
+                "rating": "★★★☆☆",
+                "image": "https://m.media-amazon.com/images/I/613Jpo8wa6L._AC_UY1000_.jpg"
+            },
+            {
+                "id": "22",
+                "name": "Lunch Cooler Bag",
+                "description": "Insulated cooler bag for lunches.",
+                "price": "$25",
+                "rating": "★★★★☆",
+                "image": "https://i5.walmartimages.com/asr/1ec4b71a-31c7-4c94-8b34-ea999cd82caa.3b996d81b2a31d09733a8b090eaaf567.png"
+            },
+            {
+                "id": "23",
+                "name": "Laptop Sleeve",
+                "description": "Sleek laptop sleeve for protection.",
+                "price": "$20",
+                "rating": "★★★★★",
+                "image": "https://www.belkin.com/dw/image/v2/BGBH_PRD/on/demandware.static/-/Sites-master-product-catalog-blk/default/dw444d215b/images/hi-res/6/121363270_EDU002_ProtectiveSleeveWShoulderStrap_Shot-01_WEB.png?sw=700&sh=700&sm=fit"
+            },
+            {
+                "id": "24",
+                "name": "Travel Wallet",
+                "description": "Secure travel wallet for essentials.",
+                "price": "$40",
+                "rating": "★★★★☆",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/underscored-travelwallets-paravel-cabana-passport-case.jpg?q=h_900,w_1600,x_0,y_0"
+            },
+            {
+                "id": "25",
+                "name": "Pet Carrier",
+                "description": "Comfortable pet carrier for small animals.",
+                "price": "$60",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/71kcV4r0SnL.jpg"
+            },
+            {
+                "id": "26",
+                "name": "Reusable Grocery Bag",
+                "description": "Eco-friendly reusable grocery bag.",
+                "price": "$15",
+                "rating": "★★★★☆",
+                "image": "https://customlogousa.com/cdn/shop/products/lime_green_reusable_grocery_bag_500x500.jpg?v=1585760499"
+            },
+            {
+                "id": "27",
+                "name": "Wine Carrier",
+                "description": "Elegant wine carrier for picnics.",
+                "price": "$35",
+                "rating": "★★★☆☆",
+                "image": "https://i5.walmartimages.com/asr/395db3a8-9bfa-4abb-a3e8-693a3d83b536_1.2f5abc0413130ef48b983e4abb6e25ac.jpeg"
+            },
+            {
+                "id": "28",
+                "name": "Yoga Mat Bag",
+                "description": "Convenient bag for carrying yoga mats.",
+                "price": "$28",
+                "rating": "★★★★★",
+                "image": "https://m.media-amazon.com/images/I/41XPE5P-YxL._AC_UF1000,1000_QL80_.jpg"
+            },
+            {
+                "id": "29",
+                "name": "Drawstring Bag",
+                "description": "Lightweight drawstring bag for gym clothes.",
+                "price": "$12",
+                "rating": "★★★☆☆",
+                "image": "https://cdn02.plentymarkets.com/zkz64ybyye6y/item/images/1481/full/Turnbeutel-1481.jpg"
+            },
+            {
+                "id": "30",
+                "name": "Tool Bag",
+                "description": "Rugged tool bag for handy work.",
+                "price": "$50",
+                "rating": "★★★★☆",
+                "image": "https://m.media-amazon.com/images/I/91D9FHaEFkL._AC_UF350,350_QL80_.jpg"
+            }
+            
+        ]
+    }
+    
+]

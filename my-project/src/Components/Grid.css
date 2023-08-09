@@ -1,0 +1,99 @@
+body, html {
+    overflow-x: hidden; 
+  }
+
+  .container {
+    padding-top: 200px;
+  }
+
+
+
+.product-tile {
+
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    transition: 0.3s;
+    margin: 5px; 
+  }
+  
+  .product-tile:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    transition: 0.3s;
+    margin: 5px;
+    height: 400px; 
+  }
+  
+  .card-container:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-content {
+    height: 200px; 
+  }
+  
+  .card-description {
+    font-family: 'Brush Script MT, cursive';
+    font-size: 18px;
+    font-style: italic;
+  }
+  
+  .card-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+
+
+
+
+  .tile-content img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px; 
+  }
+
+  .product-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .tile-content h5 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .tile-content p {
+    color: #333;
+    margin: 5px 0; 
+  }
+  
+  .tile-content button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .tile-content button:hover {
+    background-color: #0056b3;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .container {
+      padding-top: 100px;
+    }
+  }
+  
+
