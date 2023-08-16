@@ -1,4 +1,4 @@
-# Exquisite
+# Exquisite E-Commerce Website
 What Has Been Implemented:
 The ProductGrid component provides an interface to display products in a grid format. This includes functionalities such as:
 
